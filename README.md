@@ -7,4 +7,4 @@
 
 <h3 align="left">Streaks:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MTorregrosaM&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MTorregrosaM&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
